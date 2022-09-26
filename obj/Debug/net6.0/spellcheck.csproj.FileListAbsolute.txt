@@ -1,0 +1,15 @@
+F:\CS30\Search Algorithms\spellcheck\bin\Debug\net6.0\spellcheck.exe
+F:\CS30\Search Algorithms\spellcheck\bin\Debug\net6.0\spellcheck.deps.json
+F:\CS30\Search Algorithms\spellcheck\bin\Debug\net6.0\spellcheck.runtimeconfig.json
+F:\CS30\Search Algorithms\spellcheck\bin\Debug\net6.0\spellcheck.dll
+F:\CS30\Search Algorithms\spellcheck\bin\Debug\net6.0\spellcheck.pdb
+F:\CS30\Search Algorithms\spellcheck\obj\Debug\net6.0\spellcheck.csproj.AssemblyReference.cache
+F:\CS30\Search Algorithms\spellcheck\obj\Debug\net6.0\spellcheck.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Search Algorithms\spellcheck\obj\Debug\net6.0\spellcheck.AssemblyInfoInputs.cache
+F:\CS30\Search Algorithms\spellcheck\obj\Debug\net6.0\spellcheck.AssemblyInfo.cs
+F:\CS30\Search Algorithms\spellcheck\obj\Debug\net6.0\spellcheck.csproj.CoreCompileInputs.cache
+F:\CS30\Search Algorithms\spellcheck\obj\Debug\net6.0\spellcheck.dll
+F:\CS30\Search Algorithms\spellcheck\obj\Debug\net6.0\refint\spellcheck.dll
+F:\CS30\Search Algorithms\spellcheck\obj\Debug\net6.0\spellcheck.pdb
+F:\CS30\Search Algorithms\spellcheck\obj\Debug\net6.0\spellcheck.genruntimeconfig.cache
+F:\CS30\Search Algorithms\spellcheck\obj\Debug\net6.0\ref\spellcheck.dll
